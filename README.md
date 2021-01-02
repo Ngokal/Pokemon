@@ -1,1 +1,1 @@
-Pokemon
+WPF tabanlı pokemon karşılaştırma uygulaması.
