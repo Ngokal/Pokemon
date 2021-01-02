@@ -1,0 +1,19 @@
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\bin\Debug\Soru1.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\bin\Debug\Soru1.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\bin\Debug\Soru1.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru1\Soru1\obj\Debug\Soru1.pdb
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\bin\Debug\Soru1.exe.config
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\bin\Debug\Soru1.exe
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\bin\Debug\Soru1.pdb
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.csprojAssemblyReference.cache
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.Form1.resources
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.exe
+C:\Users\Nurullah\Desktop\OOP Lisans\Soru1\Soru1\obj\Debug\Soru1.pdb
